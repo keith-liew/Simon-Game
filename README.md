@@ -1,6 +1,6 @@
 # Project Name
 > A simple Simon game created with plain html and jquery.
-<!-- Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://keith-liew.github.io/Simon-Game/). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -20,6 +20,7 @@
 - It is a game that require the player to remember the sequence of the box is prompted by the machine
 - Every level the machine will indicate which box is selected
 - Every level the player is required to choose all boxes that are prompted in previous level in sequence and plus one current level selection.
+
 
 ## Technologies Used
 - HTML 
@@ -53,10 +54,12 @@
 ## Project Status
 Project is: _complete_ 
 
+
 ## Lesson Learned
 - Use jQuery instead of Javascript
 - Use jQuery to interact with DOM
 - Implement sound effect to the game
+
 
 ## Acknowledgements
 - This project was inspired by Angela Yu.
