@@ -1,4 +1,4 @@
-# Project Name
+# Simon-Game
 > A simple Simon game created with plain html and jquery.
 > Live demo [_here_](https://keith-liew.github.io/Simon-Game/). 
 
